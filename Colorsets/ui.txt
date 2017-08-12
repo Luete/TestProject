@@ -1,0 +1,8 @@
+background #88A6B5
+playerlist #4D4D4D
+serverlist #BAC9D1
+unreachable #BABABA
+unreachableselected #999999
+reachable #75FF9A
+reachableselected #36FF6B
+category #8DC74F

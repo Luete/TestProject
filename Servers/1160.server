@@ -1,0 +1,6 @@
+#Fri Aug 11 20:04:03 CEST 2017
+script=cd "%GAMEPATH%"\n"%EXECUTABLE%" +connect %IP%\:%PORT%
+game=Jedi Knight 2
+port=28071
+name=^5JiP
+ip=35.187.68.12

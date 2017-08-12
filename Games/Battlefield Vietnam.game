@@ -1,0 +1,7 @@
+#Fri Aug 30 13:13:37 CEST 2013
+queryport=23000
+script=cd "%GAMEPATH%"\n"%EXECUTABLE%" +connect %IP%\:%PORT%
+executable=
+standardport=15567
+colorset=
+protocol=GameSpy2

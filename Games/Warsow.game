@@ -1,0 +1,7 @@
+#Fri Aug 30 13:13:14 CEST 2013
+queryport=
+script=cd "%GAMEPATH%"\n"%EXECUTABLE%" +connect %IP%\:%PORT%
+executable=
+standardport=44400
+colorset=Warsow
+protocol=Quake3

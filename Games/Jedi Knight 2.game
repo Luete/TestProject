@@ -1,0 +1,7 @@
+#Fri Aug 11 19:59:57 CEST 2017
+queryport=
+script=cd "%GAMEPATH%"\n"%EXECUTABLE%" +connect %IP%\:%PORT%
+executable=C\:\\Users\\Public\\Desktop\\CCleaner.lnk
+standardport=28070
+colorset=Quake
+protocol=Quake3

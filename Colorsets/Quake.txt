@@ -1,0 +1,10 @@
+^0 #000000
+^1 #C10000
+^2 #008B09
+^3 #F5FF3B
+^4 #3098FF
+^5 #30FFE7
+^6 #AC55CF
+^7 #FFFFFF
+standard #FFFFFF
+background #AAAAAA

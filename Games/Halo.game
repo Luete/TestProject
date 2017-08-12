@@ -1,0 +1,7 @@
+#Fri Aug 11 20:00:58 CEST 2017
+queryport=
+script=cd "%GAMEPATH%"\n"%EXECUTABLE%" +connect %IP%\:%PORT%
+executable=D\:\\games\\Warsow 2.1\\warsow_x64.exe
+standardport=2302
+colorset=Warsow
+protocol=GameSpy2

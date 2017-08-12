@@ -1,0 +1,7 @@
+#Fri Aug 30 13:23:18 CEST 2013
+queryport=
+script=cd "%GAMEPATH%"\n"%EXECUTABLE%" +connect %IP%\:%PORT%
+executable=
+standardport=27015
+colorset=
+protocol=HalfLife

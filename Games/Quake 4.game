@@ -1,0 +1,7 @@
+#Fri Aug 30 13:11:15 CEST 2013
+queryport=
+script=cd "%GAMEPATH%"\n"%EXECUTABLE%" +connect %IP%\:%PORT%
+executable=
+standardport=28004
+colorset=Quake
+protocol=Doom3
