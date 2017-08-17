@@ -20,18 +20,6 @@
 			</plugin>
 
 			<plugin>
-				<groupId>org.codehaus.mojo</groupId>
-				<artifactId>findbugs-maven-plugin</artifactId>
-				<version>3.0.5-SNAPSHOT</version>
-				<configuration>
-					<xmlOutput>true</xmlOutput>
-					<!-- Optional directory to put findbugs xdoc xml report -->
-					<xmlOutputDirectory>target/findbugs/findbugs.xml</xmlOutputDirectory>
-				</configuration>
-			</plugin>
-
-
-			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-pmd-plugin</artifactId>
 				<version>3.8</version>
