@@ -7,9 +7,21 @@
 	<properties>
 		<pmd.failOnViolation>false</pmd.failOnViolation>
 	</properties>
-	
+
 	<build>
 		<plugins>
+			<plugin>
+				<artifactId>maven-jar-plugin</artifactId>
+				<version>3.0.2</version>
+				<configuration>
+					<archive>
+						<manifest>
+							<mainClass>de.luete.gamebrowser.main.MainFX</mainClass>
+						</manifest>
+					</archive>
+				</configuration>
+			</plugin>
+
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.5.1</version>
